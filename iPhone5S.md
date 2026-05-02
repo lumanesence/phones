@@ -8,7 +8,7 @@
 
 ### Ownership Information
 * Aqcuired on: 2/5/2026
-* Original Owner: Unknwon
+* Original Owner: Unknown
 * Additional Notes: Purchased at Edgware Car Boot Sale, screen was cracked at purchase - might replace with a new screen and battery
 
 ### How I got it
