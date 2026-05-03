@@ -1,6 +1,6 @@
 # BlueChip BC5c
 ### Specfications
-* CPU: Suspected to be a MediaTek MTK62xxx series
+* CPU: Suspected to be of the MediaTek 62 series
 * RAM: Suspected to be 512MB
 * Storage: <1GB
 * Installed OS: Generic MediaTek OS
