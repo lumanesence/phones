@@ -2,7 +2,7 @@
 ### Specfications
 * CPU: MediaTek Helio G81
 * RAM: 8GB Unkown
-* Storage: 64GB
+* Storage: 64GB (expandable up to 2TB with an SD Card)
 * Installed OS: MagicOS 9 (Android 15)
 * Jailbroken: No
 
