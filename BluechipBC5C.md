@@ -1,9 +1,9 @@
 # BlueChip BC5c
 ### Specfications
-* CPU: Suspected to be of the MediaTek 62 series
+* CPU: MediaTek MT6252
 * RAM: Suspected to be 512MB
 * Storage: <1GB
-* Installed OS: Generic MediaTek OS
+* Installed OS: MAUI Runtime Environment (Nucleus RTOS)
 * Jailbroken: Not Applicable
 
 ### Ownership Information
