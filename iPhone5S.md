@@ -10,7 +10,7 @@
 * Aqcuired on: 2/5/2026
 * Original Owner: Unknown
 
-## Additional Notes 
+### Additional Notes 
 Purchased at Edgware Car Boot Sale, screen was cracked at purchase - might replace with a new screen and battery // Previously iCloud locked
 
 ### How I got it
